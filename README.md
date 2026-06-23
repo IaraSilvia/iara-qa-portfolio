@@ -31,7 +31,7 @@ QA Tester com experiência em testes manuais e automatizados, atualmente em proc
 
 ## 📁 Projetos
 
-### 1. Testes Manuais e Exploratórios — [`/projeto-1-testes-manuais`](./projeto-1-testes-manuais)
+### 1. Testes Manuais e Exploratórios — [`/project-01-manual-testing`](./project-01-manual-testing)
 **Status:** 🚧 em andamento
 
 Plano de teste, casos de teste e relatórios de bugs aplicados a uma aplicação real de demonstração ([SauceDemo](https://www.saucedemo.com/) / Cypress Real World App).
@@ -46,7 +46,7 @@ Plano de teste, casos de teste e relatórios de bugs aplicados a uma aplicação
 
 ---
 
-### 2. Automação de Testes de API — [`/projeto-2-testes-api`](./projeto-2-testes-api)
+### 2. Automação de Testes de API — [`/project-02-api-automation`](./project-02-api-automation)
 **Status:** ⏳ planejado
 
 Coleção de testes automatizados para uma API REST pública, com validações (assertions), variáveis de ambiente e execução via linha de comando.
@@ -61,7 +61,7 @@ Coleção de testes automatizados para uma API REST pública, com validações (
 
 ---
 
-### 3. Automação E2E com Playwright — [`/projeto-3-playwright-e2e`](./projeto-3-playwright-e2e)
+### 3. Automação E2E com Playwright — [`/project-03-playwright-e2e`](./project-03-playwright-e2e)
 **Status:** ⏳ planejado
 
 Suíte de testes end-to-end usando Page Object Model, integrada ao GitHub Actions, com relatório de execução em HTML.
@@ -76,7 +76,7 @@ Suíte de testes end-to-end usando Page Object Model, integrada ao GitHub Action
 
 ---
 
-### 4. Pipeline Integrado de Qualidade — [`/projeto-4-pipeline-completo`](./projeto-4-pipeline-completo)
+### 4. Pipeline Integrado de Qualidade — [`/project-04-quality-engineering-pipeline`](./project-04-quality-engineering-pipeline)
 **Status:** 💡 diferencial (futuro)
 
 Integração dos projetos anteriores em um único pipeline, combinando testes manuais documentados, testes de API e testes E2E, todos rodando em CI/CD — demonstrando uma visão de Quality Engineering.
